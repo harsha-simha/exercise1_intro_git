@@ -1,6 +1,6 @@
 name: Step 1, Create a branch
 
-# This step listens for the learner to create branch `my-first-branch`.
+# This step listens for the learner to create branch `my-first-branch`.1
 # This workflow updates from step 1 to step 2.
 
 # This will run every time we create a branch or tag.
